@@ -42,8 +42,64 @@
     font-variation-settings:"wdth" 100;
 }
 
+.firstPart h2{
+    margin-top: 110px;
+}
+
+.secondContainer{
+    overflow: hidden;
+}
+
+.secondContainer .image img{
+    width: 50%;
+    margin-top: 60px;
+    margin-left: 40px;
+    float: left;
+}
+
+.secondContainer .secondPart{
+    float: right;
+    margin-top: 95px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+
+}
+
+.thirdContainer{
+    text-align: center;
+    clear: both;
+    margin-top: 100px;
+}
+
+.thirdContainer .thirdPart h1{
+    clear: none;
+}
+
+.thirdContainer .thirdPart img{
+    margin-top: 90px;
+}
 
 h1{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    color: hsl(210, 10%, 33%);
+    margin-top: 35px;
+}
+
+h2{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    color: hsl(210, 10%, 33%);
+    margin-top: 35px;
+}
+
+h3{
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;
