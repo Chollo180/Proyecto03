@@ -1,0 +1,63 @@
+.container{
+    text-align: center;
+    background-image: url('image/bg-header-desktop.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.firstPart #img{
+    width: 70px;
+    margin-top: 100px;
+}
+
+.firstPart .button1{
+    width: 150px;
+    height: 35px;
+    border-style: groove;
+    border-radius: 50px;
+    background-color: hsl(171, 66%, 44%);
+    border-color: hsl(171, 66%, 44%);
+    color: white;
+    margin-top: 25px;
+    margin-right: 5px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+
+.firstPart .button2{
+    width: 150px;
+    height: 35px;
+    border-style: groove;
+    border-radius: 50px;
+    background-color: hsl(233, 100%, 69%);
+    border-color: hsl(233, 100%, 69%);
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+
+
+h1{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    color: hsl(210, 10%, 33%);
+    margin-top: 35px;
+}
+
+p{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    color: hsl(201, 11%, 66%)
+}
