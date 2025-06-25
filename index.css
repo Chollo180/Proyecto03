@@ -10,7 +10,7 @@
     margin-top: 100px;
 }
 
-.firstPart .button1{
+.button1{
     width: 150px;
     height: 35px;
     border-style: groove;
@@ -27,7 +27,7 @@
     font-variation-settings:"wdth" 100;
 }
 
-.firstPart .button2{
+.button2{
     width: 150px;
     height: 35px;
     border-style: groove;
@@ -78,6 +78,40 @@
 .thirdContainer .thirdPart img{
     margin-top: 90px;
 }
+
+.fourthContainer{
+    text-align: center;
+}
+
+.fourthPart{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    display: inline-block;
+    padding: 10px;
+    margin: 40px 30px; 
+}
+
+.fifthContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.imagenes{
+    display: inline-block;
+    margin: 90px;
+}
+
+.itemDos{
+    margin: 0 50px;
+}
+
+.sixthContainer{
+    text-align: center;
+}
+
 
 h1{
     font-family: "Open Sans", sans-serif;
