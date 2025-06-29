@@ -113,6 +113,38 @@
 }
 
 
+footer{
+    background-color: hsl(200, 16%, 93%);
+    padding: 40px 60px;
+    margin-top: 150px;
+}
+
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footerPart {
+  display: flex;
+  align-items: center;
+}
+
+
+.footerPart2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.footerPart3 {
+  display: flex;
+  gap: 25px;
+}
+
 h1{
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
@@ -151,3 +183,10 @@ p{
     font-variation-settings:"wdth" 100;
     color: hsl(201, 11%, 66%)
 }
+
+
+html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
